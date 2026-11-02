@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "12KNr+Dv/BU=",
+  "dgSpecHash": "qFjlxK0qeT8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\AirBnB-clone\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj",
+  "projectFilePath": "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\Stayora\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jedeo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jedeo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -158,10 +158,10 @@
     "C:\\Users\\jedeo\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\jedeo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\jedeo\\.nuget\\packages\\yarp.reverseproxy\\2.1.0\\yarp.reverseproxy.2.1.0.nupkg.sha512",
-    "C:\\Users\\jedeo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\jedeo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512",
     "C:\\Users\\jedeo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\jedeo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512"
+    "C:\\Users\\jedeo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\jedeo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\jedeo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
   ],
   "logs": []
 }

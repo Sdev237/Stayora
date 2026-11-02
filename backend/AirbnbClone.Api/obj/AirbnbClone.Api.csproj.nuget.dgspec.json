@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\AirBnB-clone\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj": {}
+    "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\Stayora\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\AirBnB-clone\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj": {
+    "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\Stayora\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\AirBnB-clone\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj",
+        "projectUniqueName": "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\Stayora\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj",
         "projectName": "AirbnbClone.Api",
-        "projectPath": "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\AirBnB-clone\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj",
+        "projectPath": "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\Stayora\\backend\\AirbnbClone.Api\\AirbnbClone.Api.csproj",
         "packagesPath": "C:\\Users\\jedeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\AirBnB-clone\\backend\\AirbnbClone.Api\\obj\\",
+        "outputPath": "C:\\Users\\jedeo\\.gemini\\antigravity\\scratch\\Stayora\\backend\\AirbnbClone.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jedeo\\AppData\\Roaming\\NuGet\\NuGet.Config"
